@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Enemy
+  - Canvas
+  - Nextscene
+  - wall
+  - mechanism
+  - Teleport
+  - Health
+  - SwordBoss
+  - PlayerBullet
+  - DeathZoon
+  - BossOctopus
+  - DeathZone
+  - OnlyforBoss
+  - EnemyJumper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - submarine
+  - bullet
+  - OnlyforBoss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgroundimage
+    uniqueID: 2779414529
+    locked: 0
+  - name: background
+    uniqueID: 1629684343
+    locked: 0
+  - name: shadow
+    uniqueID: 4134017249
+    locked: 0
+  - name: Platforms
+    uniqueID: 2115746109
+    locked: 0
+  - name: Player
+    uniqueID: 139406613
+    locked: 0
+  - name: foreground
+    uniqueID: 2730604391
+    locked: 0
